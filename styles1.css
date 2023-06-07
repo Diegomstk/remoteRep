@@ -1,6 +1,6 @@
 body {
     margin:0 ;
-    background-color: bisque;
+    background-color: rgb(187, 238, 240);
 }
 
 .img{
@@ -31,4 +31,9 @@ button{
 
 button:hover {
      color: blue;
+}
+
+title > h2 {
+    color: gold ;
+    align-self: center;
 }
